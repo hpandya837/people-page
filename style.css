@@ -1,0 +1,51 @@
+body {
+    background-color: #1C2E3E; /* Royal blue background */
+    color: #E5E5E5; /* Light gray text for the whole page */
+}
+
+.navbar {
+    background-color: #1C2E3E; /* Royal blue header and navigation background */
+}
+
+.navbar-nav .nav-link {
+    color: #E5E5E5; /* Light gray text for navigation links */
+}
+
+.btn-primary {
+    background-color: #1C2E3E; /* Darker royal blue accent color for buttons */
+    border: none;
+}
+
+/* Gallery card background and borders */
+.card {
+    background-color:   #E5E5E5; /* Royal blue card background */
+    border: 5px solid white; /* Border around cards */
+}
+
+/* Card title and text */
+.card-title, .card-text {
+    color:  #444444; /* Light gray text for card content */
+}
+
+/* Footer styles */
+.bg-light {
+    background-color: #1C2E3E; /* Royal blue footer background */
+}
+
+.bg-light .text-white {
+    color: #E5E5E5; /* Light gray text for footer */
+}
+
+/* Hero section */
+.bg-hero-image {
+    background-image: url('https://picsum.photos/1300/500');
+    background-position: center center;
+}
+
+.logo {
+    width: 1px;
+    height: 100px;
+}
+ p{
+    color: black;
+ }
